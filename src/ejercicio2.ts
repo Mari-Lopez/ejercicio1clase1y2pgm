@@ -1,0 +1,10 @@
+console.log("mover adelante");
+console.log("vaciar1");
+console.log("mover adelante");
+console.log("vaciar1");
+console.log("mover adelante");
+console.log("vaciar1");
+console.log("mover adelate");
+console.log("vaciar1");
+console.log("mover a la derecha");
+console.log("repetir 4veces/completar ejercicio");
